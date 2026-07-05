@@ -94,10 +94,4 @@ Optimized for:
 - 📟 Tablet
 
 ---
-If you like this project, please consider giving it a ⭐ on GitHub.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
